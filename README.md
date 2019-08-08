@@ -6,7 +6,7 @@ This project is contributed by Institute of Computer Vision, Shenzhen University
 
 ## Contributor
 
-Haozhe.Liu : liuhaozhest@gmail.com Post:Sensor Organization: Shenzhen University
+Haozhe.Liu : liuhaozhest@gmail.com Post:M.S. Organization: Shenzhen University
 
 Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 
