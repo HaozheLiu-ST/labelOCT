@@ -10,7 +10,7 @@ Haozhe.Liu : liuhaozhest@gmail.com Post:M.S. Organization: Shenzhen University
 
 Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 
-Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
+Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fellow Organization:Shenzhen University
 
 Yong.Qi : qiyong@sust.edu.cn POST: Ph.D Organization:SUST
 
