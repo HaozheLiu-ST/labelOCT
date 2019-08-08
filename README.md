@@ -13,6 +13,10 @@ Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
 
 Yong.Qi : qiyong@sust.edu.cn POST: Ph.D Organization:SUST
+
+JiaShu Chen : a1416228373@gmail.com Post:Junior Organization:SUST
+
+HaiMing.Cao : hoiming.wk@foxmail.com Post:Junior Organization:SUST
 ## Contribution
 
 The use of software is as follows:
